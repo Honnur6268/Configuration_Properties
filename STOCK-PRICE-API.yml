@@ -1,10 +1,4 @@
-server:
-  port: 8081
-
-spring:
-  application:
-    name: STOCK-PRICE-API
-    
+spring:    
   boot:
     admin:
       client:
